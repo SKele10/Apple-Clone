@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-repo/apple-website-clone.git
+git clone https://github.com/SKele10/Apple-Clone.git
 cd apple-website-clone
 ```
 
